@@ -1,0 +1,19 @@
+{
+  "name": "SC Control Panel",
+  "author": {
+    "name": "Marcelo De Bortoli",
+    "email": "mdebortoli@zendesk.com",
+    "url": "https://www.zendesk.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "nav_bar": {
+        "url": "https://dmb8c5aa87d0n.cloudfront.net"
+      }
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}

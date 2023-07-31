@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "SC Control Panel",
+    "short_description": "Control panel for SCs with tools and features to enhance productivity and streamline workflows.",
+    "long_description": "Comprehensive control panel for SCs, offering a suite of tools and features to boost productivity, streamline workflows, and empower SCs in their day-to-day activities.",
+    "installation_instructions": "Simply click install."
+  }
+}
